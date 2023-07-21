@@ -1,0 +1,1108 @@
+[
+  {
+    "address": "bc1p7zg3zzecv8djrfsxuwl9chs7wmkje6exa7u567np6j8uqwck39uq56u95t",
+    "oldBalance": "45",
+    "newBalance": "6",
+    "diff": "39",
+    "gspRefund": "390000"
+  },
+  {
+    "address": "bc1qcn3us73zvq4t4fagl67pqqgrpfugxe2tqzh3wk",
+    "oldBalance": "4",
+    "newBalance": "1",
+    "diff": "3",
+    "gspRefund": "30000"
+  },
+  {
+    "address": "bc1pgrvllslpusad56u4wdl20j8c6h5lry9x8erchwg66g9jkhclaslszhh0s3",
+    "oldBalance": "57",
+    "newBalance": "8",
+    "diff": "49",
+    "gspRefund": "490000"
+  },
+  {
+    "address": "bc1pxwn9duraglsgr9f7q8ua33sx0vkq5wjft575h662995zf5m27v2qqxlf3m",
+    "oldBalance": "47",
+    "newBalance": "4",
+    "diff": "43",
+    "gspRefund": "430000"
+  },
+  {
+    "address": "bc1pxydd0yk5tnm3uw075mydh23mgrsuzmgrke9xhzdej0svxqgzj6aqfyetsf",
+    "oldBalance": "99",
+    "newBalance": "9",
+    "diff": "90",
+    "gspRefund": "900000"
+  },
+  {
+    "address": "bc1psp724eaqk6c3hr0ulm08ymxpd8gz2h2cc4zpfhf37qx3s3mksjas2t8l5r",
+    "oldBalance": "118",
+    "newBalance": "20",
+    "diff": "98",
+    "gspRefund": "980000"
+  },
+  {
+    "address": "bc1q8yc7fw90shw9s960265nqc8y626zdus3p93s0k",
+    "oldBalance": "51",
+    "newBalance": "10",
+    "diff": "41",
+    "gspRefund": "410000"
+  },
+  {
+    "address": "bc1qj9vfj7dmwj46u5v7xcumg0x6p3e0u0r0l3n3g9",
+    "oldBalance": "180",
+    "newBalance": "9",
+    "diff": "171",
+    "gspRefund": "1710000"
+  },
+  {
+    "address": "bc1pv529htxnmfe8qdzdfz22t965ja0hv66ja90alczqwv03pwpuwp4slx42fj",
+    "oldBalance": "87",
+    "newBalance": "7",
+    "diff": "80",
+    "gspRefund": "800000"
+  },
+  {
+    "address": "bc1ph2q98ttxynp5tsxemwqs55kdz3r3nnlcpmmvc9hxx80gv9artayqr744sv",
+    "oldBalance": "65",
+    "newBalance": "58",
+    "diff": "7",
+    "gspRefund": "70000"
+  },
+  {
+    "address": "bc1pd8ehyxx48gvr3t3ecz23asvw4jca826m3d96xpfd3h6sjft5f80q4605zh",
+    "oldBalance": "32",
+    "newBalance": "10",
+    "diff": "22",
+    "gspRefund": "220000"
+  },
+  {
+    "address": "bc1qp4274kl8l7cj5g2c2x8h0ys9hp847n9hmxgffq",
+    "oldBalance": "15",
+    "newBalance": "5",
+    "diff": "10",
+    "gspRefund": "100000"
+  },
+  {
+    "address": "bc1pzfh9sqm029h7f2rtd6l6ejwp4uz9yzk0q539ynwnvflzfsaxfshsvqjk3h",
+    "oldBalance": "10",
+    "newBalance": "3",
+    "diff": "7",
+    "gspRefund": "70000"
+  },
+  {
+    "address": "bc1p8jucl8hz57ypdlfgue7uvh9jx5dq60zqzphtll35hfy3r26lgfdsggcy7j",
+    "oldBalance": "156",
+    "newBalance": "14",
+    "diff": "142",
+    "gspRefund": "1420000"
+  },
+  {
+    "address": "bc1py4m2cffy4z6lrrmftdf73fgw868wjdu03zxm0t9kqpc7yms8fllqp67jfm",
+    "oldBalance": "5",
+    "newBalance": "4",
+    "diff": "1",
+    "gspRefund": "10000"
+  },
+  {
+    "address": "bc1qzr6hegscv2uq963t9slpcuntjf7ppkws5u03r4",
+    "oldBalance": "144",
+    "newBalance": "25",
+    "diff": "119",
+    "gspRefund": "1190000"
+  },
+  {
+    "address": "bc1p9wl527gwjcgqg7pf0t87g6hn6qw2upx6e8nf4mypurqddel9ak7s04e9yz",
+    "oldBalance": "9",
+    "newBalance": "8",
+    "diff": "1",
+    "gspRefund": "10000"
+  },
+  {
+    "address": "bc1pcs99hh8r8y3r8cj0c8x6jldr80ry7s8hppe5lfeh75mwlqj6md8qt6hkqg",
+    "oldBalance": "30",
+    "newBalance": "9",
+    "diff": "21",
+    "gspRefund": "210000"
+  },
+  {
+    "address": "bc1pxkkcassv8y6trpq7exapu8snr74afgr2kp4d7j04fqlxvvtv3x0sexve57",
+    "oldBalance": "23",
+    "newBalance": "2",
+    "diff": "21",
+    "gspRefund": "210000"
+  },
+  {
+    "address": "bc1pkzeka5uw9c69s4mehm5w4p2xyhwwy9t7x54xa9rhlrw4p9q46s7qvah9u0",
+    "oldBalance": "113",
+    "newBalance": "6",
+    "diff": "107",
+    "gspRefund": "1070000"
+  },
+  {
+    "address": "bc1pz2l94ukg6hfy3zngjm4059jv9zjty9623drp3mjjpjnuqly43g5qw56tjv",
+    "oldBalance": "5",
+    "newBalance": "1",
+    "diff": "4",
+    "gspRefund": "40000"
+  },
+  {
+    "address": "bc1p2vdwamanw47m766mtz4mzdal370f3787ev23fpcj8nucuvmyr4aq3hya2u",
+    "oldBalance": "8",
+    "newBalance": "1",
+    "diff": "7",
+    "gspRefund": "70000"
+  },
+  {
+    "address": "bc1pazm33g2tmraytdt4tyl0zx4yf6ugcg2lckvkvhp2yzwczpuay60qeyar80",
+    "oldBalance": "59",
+    "newBalance": "3",
+    "diff": "56",
+    "gspRefund": "560000"
+  },
+  {
+    "address": "bc1pkhuvtgum5tezgvazyf2aar5sv0cz0cuvxdv50wcy06spdvu2t57svap43p",
+    "oldBalance": "6",
+    "newBalance": "1",
+    "diff": "5",
+    "gspRefund": "50000"
+  },
+  {
+    "address": "bc1p836h4nuge97t2x3lp05refgmtnh4ee66589juxcknyxzmthx0peq0lsp5n",
+    "oldBalance": "12",
+    "newBalance": "10",
+    "diff": "2",
+    "gspRefund": "20000"
+  },
+  {
+    "address": "bc1qh2mgcjaked7fs6cmclwawankw7c535ujwy74lm",
+    "oldBalance": "20",
+    "newBalance": "1",
+    "diff": "19",
+    "gspRefund": "190000"
+  },
+  {
+    "address": "bc1p7npv2tzdv0cu2de0hcvxh54zkamnq960we724rq0sq9l5kp7yetsrsfjd9",
+    "oldBalance": "49",
+    "newBalance": "2",
+    "diff": "47",
+    "gspRefund": "470000"
+  },
+  {
+    "address": "bc1ppjtdwu4qqa8zws0zausjlwcsmpwl3p3kgmmw6e9qgue4zfm669pslf43vh",
+    "oldBalance": "23",
+    "newBalance": "1",
+    "diff": "22",
+    "gspRefund": "220000"
+  },
+  {
+    "address": "bc1pwyasz8vz6k0pq5a4pt78rnm9yrrsd8f0l00s45n0vfv2prkvmdds6q5rw7",
+    "oldBalance": "45",
+    "newBalance": "2",
+    "diff": "43",
+    "gspRefund": "430000"
+  },
+  {
+    "address": "bc1p2tsfdfr8lq7ahuy97vt227p3xvaxt4sa663hxkyqdu9x2lu922gqhvamd7",
+    "oldBalance": "6",
+    "newBalance": "4",
+    "diff": "2",
+    "gspRefund": "20000"
+  },
+  {
+    "address": "bc1p0yp5ltgec4nxj3rk5cltlmee8pywkf98eehnfj0sd9tkx8nu65ls6m9tkj",
+    "oldBalance": "20",
+    "newBalance": "1",
+    "diff": "19",
+    "gspRefund": "190000"
+  },
+  {
+    "address": "bc1ptuhfuuwj3d4twkrsyspznk50cmtpmyszeee9nrnq7tsmlf64namq0h30g0",
+    "oldBalance": "42",
+    "newBalance": "4",
+    "diff": "38",
+    "gspRefund": "380000"
+  },
+  {
+    "address": "bc1pr9hv5jqsknawee3c33lh2wf0uumfvt6zlyn3c6nxhu6e0jw6p46q584rkj",
+    "oldBalance": "33",
+    "newBalance": "2",
+    "diff": "31",
+    "gspRefund": "310000"
+  },
+  {
+    "address": "bc1pm9jy2waeua04snwj2spzp4yvxmzeakruyxxyzls9qvda5guznv8qq8u98m",
+    "oldBalance": "5",
+    "newBalance": "2",
+    "diff": "3",
+    "gspRefund": "30000"
+  },
+  {
+    "address": "bc1p4gpwwejqvgqeqdv3kaszzqj8vpwwzrelpfuan0g7v0xw5gzt46vqqlzfn2",
+    "oldBalance": "24",
+    "newBalance": "6",
+    "diff": "18",
+    "gspRefund": "180000"
+  },
+  {
+    "address": "bc1pdaat3mldnlkq6kanhtt382739fr30wp22xwj4p8hz2kmfxwrqucsdnhlr9",
+    "oldBalance": "10",
+    "newBalance": "4",
+    "diff": "6",
+    "gspRefund": "60000"
+  },
+  {
+    "address": "bc1phthdkpejss2yt4sx86hpj0prsj4yzmpv3szughlvtxpta3jkq36st77ve2",
+    "oldBalance": "18",
+    "newBalance": "4",
+    "diff": "14",
+    "gspRefund": "140000"
+  },
+  {
+    "address": "bc1prfq7pft425tzrdh64g0322dd6xf30j3wun7tqzy5clv49r07fjxsmd4smw",
+    "oldBalance": "103",
+    "newBalance": "9",
+    "diff": "94",
+    "gspRefund": "940000"
+  },
+  {
+    "address": "bc1pmfpzhjljkvsz0j64awcdmy2rg5jsdjddg2v6d5ftdamp3q928yuqqy55qr",
+    "oldBalance": "70",
+    "newBalance": "12",
+    "diff": "58",
+    "gspRefund": "580000"
+  },
+  {
+    "address": "bc1pged84r7xx6qm25957ypha7zjgy5mdd5x30hstrqvykpnezq94tmsrma8wx",
+    "oldBalance": "26",
+    "newBalance": "3",
+    "diff": "23",
+    "gspRefund": "230000"
+  },
+  {
+    "address": "bc1q52t77ke8mc39yu4hzskladnvtq50pjk3rm6v9z",
+    "oldBalance": "14",
+    "newBalance": "6",
+    "diff": "8",
+    "gspRefund": "80000"
+  },
+  {
+    "address": "bc1pgjtdh88lajz603h33mjlkrsu0erru3meym783hjyezfgt9h490hqmxkxhw",
+    "oldBalance": "6",
+    "newBalance": "2",
+    "diff": "4",
+    "gspRefund": "40000"
+  },
+  {
+    "address": "bc1qmvwv4406t7qmal3n63cg6xnqy3n30nf658gw7m",
+    "oldBalance": "7",
+    "newBalance": "3",
+    "diff": "4",
+    "gspRefund": "40000"
+  },
+  {
+    "address": "bc1p356s7pv23tt7zecnpctju8mm4h3h462x2nc74fttsvjye0r4anpsdyv4g0",
+    "oldBalance": "41",
+    "newBalance": "3",
+    "diff": "38",
+    "gspRefund": "380000"
+  },
+  {
+    "address": "bc1pedggeedvfxgymgsmw68qz84ns9wl5cq0nq7g2u75aexqasmr6jeskry4t3",
+    "oldBalance": "139",
+    "newBalance": "3",
+    "diff": "136",
+    "gspRefund": "1360000"
+  },
+  {
+    "address": "bc1p372cx3yw8aq3a2e3qkp7phsz72q5az2tlyazp6tz84s9tpyepc6s633pmf",
+    "oldBalance": "11",
+    "newBalance": "1",
+    "diff": "10",
+    "gspRefund": "100000"
+  },
+  {
+    "address": "bc1pkma9mu500cfh239sreh4as4qx3c4lnxl7vy4w22chcxjlc2php8scmw5p4",
+    "oldBalance": "17",
+    "newBalance": "11",
+    "diff": "6",
+    "gspRefund": "60000"
+  },
+  {
+    "address": "bc1pju5ery20fa72ztn00q2ac85uw5f9hvcu42jz9zksds2mt7l6r4zsugst35",
+    "oldBalance": "10",
+    "newBalance": "2",
+    "diff": "8",
+    "gspRefund": "80000"
+  },
+  {
+    "address": "bc1pvksuhhtp66kp80jt8j663f0s2rykqwtyegw9xl7usy3nysxpz7qs99kfll",
+    "oldBalance": "7",
+    "newBalance": "1",
+    "diff": "6",
+    "gspRefund": "60000"
+  },
+  {
+    "address": "bc1pj5kmljy203r9e76v4npyqldyvldmz24s839fzwuyjkys35mhl3ksxshwn3",
+    "oldBalance": "5",
+    "newBalance": "1",
+    "diff": "4",
+    "gspRefund": "40000"
+  },
+  {
+    "address": "bc1qx4jw39trcm0ajn3z9thja2wq0m2dapkd6mh2gw",
+    "oldBalance": "17",
+    "newBalance": "4",
+    "diff": "13",
+    "gspRefund": "130000"
+  },
+  {
+    "address": "bc1pnupdpadjw2q6snjeuhv8yxxaujj77wl4kmjv6508ly6evsepj3tq8jygjt",
+    "oldBalance": "20",
+    "newBalance": "1",
+    "diff": "19",
+    "gspRefund": "190000"
+  },
+  {
+    "address": "bc1px5y280us7ym0schxjshhynyhz5r5ga6dkerne4gpjwgps6y0z22sw4xqn4",
+    "oldBalance": "22",
+    "newBalance": "3",
+    "diff": "19",
+    "gspRefund": "190000"
+  },
+  {
+    "address": "bc1pgu5kez3zfuqdcyxyanz7fp5dgvmu52dzxja63l2tmd5rdzkkhuts69cjsm",
+    "oldBalance": "2",
+    "newBalance": "1",
+    "diff": "1",
+    "gspRefund": "10000"
+  },
+  {
+    "address": "bc1pvc3lt8ejsxfwh8u98k2vglc699nkxjd9rk5x8e4mvwqqym4ftftsm8nqq9",
+    "oldBalance": "42",
+    "newBalance": "4",
+    "diff": "38",
+    "gspRefund": "380000"
+  },
+  {
+    "address": "bc1pgxn2ep95vzlhxqsduq7squwjjwkef4e0nj3eke7rv5a3sf5zlrds2zdk82",
+    "oldBalance": "91",
+    "newBalance": "4",
+    "diff": "87",
+    "gspRefund": "870000"
+  },
+  {
+    "address": "bc1qx97dvwgzmvmy4aa335etc4adxehdac73h4vr56",
+    "oldBalance": "5",
+    "newBalance": "2",
+    "diff": "3",
+    "gspRefund": "30000"
+  },
+  {
+    "address": "bc1p0498ca02t8vwze4rq6g8tmwsl48gn89we6afjwxtce5l5p4y93pquwu3q8",
+    "oldBalance": "9",
+    "newBalance": "1",
+    "diff": "8",
+    "gspRefund": "80000"
+  },
+  {
+    "address": "bc1pysa5xcjrujsvwpyaghel6pstakzuckn0ye6f3qpq3luw5rzj7mvsvfa28t",
+    "oldBalance": "6",
+    "newBalance": "2",
+    "diff": "4",
+    "gspRefund": "40000"
+  },
+  {
+    "address": "bc1puepny79zxhtaug2vrsyr0m5uce8k5m5z68z2nwhy0qhd3vk5xn7sp9h8wa",
+    "oldBalance": "20",
+    "newBalance": "1",
+    "diff": "19",
+    "gspRefund": "190000"
+  },
+  {
+    "address": "bc1ppuhhxc7qs8w6z3u9tmafkvlqcq76l98m8xrqt2d6hh6ge0kf6cys0ucvcp",
+    "oldBalance": "16",
+    "newBalance": "3",
+    "diff": "13",
+    "gspRefund": "130000"
+  },
+  {
+    "address": "bc1pxwysa7ja424hcy5zf46kcav66esrqnz04e5fzenan4zx4ax2xuzqddxg9n",
+    "oldBalance": "45",
+    "newBalance": "2",
+    "diff": "43",
+    "gspRefund": "430000"
+  },
+  {
+    "address": "bc1pw39kl6fy0y3g5jfhvuwf9lsfl4fgxs77gk2xygcjmgkvt7m5cjfqwnxdrq",
+    "oldBalance": "8",
+    "newBalance": "1",
+    "diff": "7",
+    "gspRefund": "70000"
+  },
+  {
+    "address": "bc1pn0jjnjhfx4lc339gnp0nyzkjz695udjg4fa6639pyneame8lrs7s4zd8ly",
+    "oldBalance": "20",
+    "newBalance": "1",
+    "diff": "19",
+    "gspRefund": "190000"
+  },
+  {
+    "address": "bc1ptl97qu2a0lyn9tkgqsrus4yn7d6x6zdcvmsfh683rq0xryfs3fus4lfx39",
+    "oldBalance": "5",
+    "newBalance": "4",
+    "diff": "1",
+    "gspRefund": "10000"
+  },
+  {
+    "address": "bc1pjdq4qa4k2fgyh89u6vgvng3unp0lrnhuaa938hd8gf8k6lc575fqax763e",
+    "oldBalance": "19",
+    "newBalance": "1",
+    "diff": "18",
+    "gspRefund": "180000"
+  },
+  {
+    "address": "bc1pkq90d0m6kfgv8am078suha3km64jaujqeg33vffyyjc04kvjg0vq2wf8gt",
+    "oldBalance": "34",
+    "newBalance": "8",
+    "diff": "26",
+    "gspRefund": "260000"
+  },
+  {
+    "address": "bc1pysayt65nlrkjwm5e6pzcydlygpm39e8hhezw2lemph5zzlr0ryrqw9caus",
+    "oldBalance": "6",
+    "newBalance": "2",
+    "diff": "4",
+    "gspRefund": "40000"
+  },
+  {
+    "address": "bc1pm3hx2v9dg74x47rap3pl2w97z9w48uw2vsx4vxfpe0h9sr5w9n3s5rrszz",
+    "oldBalance": "10",
+    "newBalance": "1",
+    "diff": "9",
+    "gspRefund": "90000"
+  },
+  {
+    "address": "bc1pktkywlnt7hg9fg4r0h0tpt78m8uuczn7uhg0u60xlxe4gf5ltkcqenzy55",
+    "oldBalance": "4",
+    "newBalance": "2",
+    "diff": "2",
+    "gspRefund": "20000"
+  },
+  {
+    "address": "bc1pxhhw9hazpv5hv0rf25xaamz05c2h5mz7szs4eptznp4nl2mqpjdq2f0m64",
+    "oldBalance": "9",
+    "newBalance": "1",
+    "diff": "8",
+    "gspRefund": "80000"
+  },
+  {
+    "address": "bc1phuy5ssgz6586xu6mfsda4gdqxthqs0np9jdeke7a2qgjkz3hgg6q2u95dl",
+    "oldBalance": "18",
+    "newBalance": "1",
+    "diff": "17",
+    "gspRefund": "170000"
+  },
+  {
+    "address": "bc1pxw6yr046ep6faaynupegh7ydy5zgg2x7c7rek3h6c79x7aj7z66qk5csp8",
+    "oldBalance": "13",
+    "newBalance": "1",
+    "diff": "12",
+    "gspRefund": "120000"
+  },
+  {
+    "address": "bc1phelmmlysu3xea2v68sqdk23kraf09a220mk206d9fyfud4kax7us7red88",
+    "oldBalance": "24",
+    "newBalance": "4",
+    "diff": "20",
+    "gspRefund": "200000"
+  },
+  {
+    "address": "bc1pr07yd3yeq5ffl3rdeu7cjlxanf8aay88clex0vxpzv7esn48y8lqecgedt",
+    "oldBalance": "4",
+    "newBalance": "1",
+    "diff": "3",
+    "gspRefund": "30000"
+  },
+  {
+    "address": "bc1pc4zfkgcz6wmkqfanp0qmymtk4k3ajdu6cnzjy8ujqpldlwqe6ltqf8nemr",
+    "oldBalance": "51",
+    "newBalance": "4",
+    "diff": "47",
+    "gspRefund": "470000"
+  },
+  {
+    "address": "bc1pu9n9y5tqwq8jqkx8cjmzgwarazx00hjsgdrwjaskfrhtfxll85xs4rzw8l",
+    "oldBalance": "9",
+    "newBalance": "1",
+    "diff": "8",
+    "gspRefund": "80000"
+  },
+  {
+    "address": "bc1pgfnrydslvv9vdzp5xss9h8etjtm06ae0j0ma2a7g3qjs25usc69ss62rzz",
+    "oldBalance": "54",
+    "newBalance": "13",
+    "diff": "41",
+    "gspRefund": "410000"
+  },
+  {
+    "address": "bc1ptj7n7czujdxvnuy0nlkepu20yvrehzql8ny4xn4pjvfm3ustuejqytvcgq",
+    "oldBalance": "5",
+    "newBalance": "1",
+    "diff": "4",
+    "gspRefund": "40000"
+  },
+  {
+    "address": "bc1phumm4d9l8p8anhnjfftr559z9jz6tfp3sf9256w8tfd3ceft26zqnqy8cu",
+    "oldBalance": "5",
+    "newBalance": "1",
+    "diff": "4",
+    "gspRefund": "40000"
+  },
+  {
+    "address": "bc1p3k3apl7hunerhpxkln5sytda9fstnca8twjus6jl9yv4nh5r9qkqm3c7ud",
+    "oldBalance": "23",
+    "newBalance": "3",
+    "diff": "20",
+    "gspRefund": "200000"
+  },
+  {
+    "address": "bc1plqtkzddnh3y95jnhlzf3rfxyuyd20ks0ks3xg5nw4z26axj6v58sg3qwnm",
+    "oldBalance": "8",
+    "newBalance": "2",
+    "diff": "6",
+    "gspRefund": "60000"
+  },
+  {
+    "address": "bc1p6a8hdy9sd3l7u3hg4tglq7fg9dsmmkyrrd0p8ustscgn5l2n8vwsv25zxg",
+    "oldBalance": "4",
+    "newBalance": "1",
+    "diff": "3",
+    "gspRefund": "30000"
+  },
+  {
+    "address": "bc1p43akepfreqx3nu77dr992d97n2jqdppmmrhxc64jvh9twrylkzvqk36d6v",
+    "oldBalance": "5",
+    "newBalance": "1",
+    "diff": "4",
+    "gspRefund": "40000"
+  },
+  {
+    "address": "bc1pj452qyuj8hhqrdzcf3cn8h79nyfrq2spme9y3vs4tzqpepjgl8yqr65jsw",
+    "oldBalance": "3",
+    "newBalance": "1",
+    "diff": "2",
+    "gspRefund": "20000"
+  },
+  {
+    "address": "bc1pnd2mrf45vf4kc628wxyh8rtmhq4wxxah30nsafsh6peuv533qakqeulpz5",
+    "oldBalance": "22",
+    "newBalance": "1",
+    "diff": "21",
+    "gspRefund": "210000"
+  },
+  {
+    "address": "bc1pf74qxl30wn3ky2vj0ll2twx5zh8t2r0j80u36nr5dlxysnkrpfesxzrx7z",
+    "oldBalance": "8",
+    "newBalance": "1",
+    "diff": "7",
+    "gspRefund": "70000"
+  },
+  {
+    "address": "bc1pran0r2gq4zls9padrlg996q3mqx24e2dh5aursgqrr0amp4uqyws527sfs",
+    "oldBalance": "26",
+    "newBalance": "13",
+    "diff": "13",
+    "gspRefund": "130000"
+  },
+  {
+    "address": "bc1pgs4d6xklcd482sx8vgw663tfg57rcunvaaywr98e2snsrqn2ndrs8vanhw",
+    "oldBalance": "57",
+    "newBalance": "35",
+    "diff": "22",
+    "gspRefund": "220000"
+  },
+  {
+    "address": "bc1pk6xqhqwwffceptyqgq7pp49l9qs642vk3zn549293vu3kr4af23qne84yk",
+    "oldBalance": "61",
+    "newBalance": "4",
+    "diff": "57",
+    "gspRefund": "570000"
+  },
+  {
+    "address": "bc1p0l0y3wuhpwf6c3vdmyzrden6mwd88kk329x9ulegadzrpg98p3ms0hcur5",
+    "oldBalance": "14",
+    "newBalance": "3",
+    "diff": "11",
+    "gspRefund": "110000"
+  },
+  {
+    "address": "bc1pwdtmr3gyjq5v4s39df6qdr4ejjf2nsc0hmn0xrp7mgvu7uzhgtps0w3ej6",
+    "oldBalance": "11",
+    "newBalance": "1",
+    "diff": "10",
+    "gspRefund": "100000"
+  },
+  {
+    "address": "bc1ppfg9p42gvle4svcyddzrcexpkynv7qt7vud2y9w78rs4m7h4dn5qrc32zx",
+    "oldBalance": "4",
+    "newBalance": "1",
+    "diff": "3",
+    "gspRefund": "30000"
+  },
+  {
+    "address": "bc1psdsdae4rp80g74y8dyypxktw0qev2ska0daxjr6u6z2k5ut2cnms07677a",
+    "oldBalance": "84",
+    "newBalance": "3",
+    "diff": "81",
+    "gspRefund": "810000"
+  },
+  {
+    "address": "bc1psyu92xskgh8d86xl42me6s57ql9n6vpmepefuezay4u8uf60wpasandwa8",
+    "oldBalance": "5",
+    "newBalance": "1",
+    "diff": "4",
+    "gspRefund": "40000"
+  },
+  {
+    "address": "bc1p6kch6tse8n2ygmllhm00ugywls5lnp3fyjqs8dx08452529wuy2q44vhv3",
+    "oldBalance": "7",
+    "newBalance": "3",
+    "diff": "4",
+    "gspRefund": "40000"
+  },
+  {
+    "address": "bc1pvrphyc2w65ryzyrkcyc6jtprdfezq4vqq0v6g2s49965hcr6hnkqwth0v8",
+    "oldBalance": "8",
+    "newBalance": "4",
+    "diff": "4",
+    "gspRefund": "40000"
+  },
+  {
+    "address": "bc1p4jvmx7a705r7l5der2uj4s2y3fyy7g6mf5eg6l2crnavvtrfr8hqjfjsx5",
+    "oldBalance": "13",
+    "newBalance": "1",
+    "diff": "12",
+    "gspRefund": "120000"
+  },
+  {
+    "address": "bc1qvwcjka49gmhpahwayxvx7dwkalv63ur2fzw7sv",
+    "oldBalance": "32",
+    "newBalance": "4",
+    "diff": "28",
+    "gspRefund": "280000"
+  },
+  {
+    "address": "bc1pn9sw728v3dmqecuzwpucptdrfcfn5369zc7xlfx8l5pfv6p4gypqvhkwxl",
+    "oldBalance": "19",
+    "newBalance": "12",
+    "diff": "7",
+    "gspRefund": "70000"
+  },
+  {
+    "address": "bc1p7hpugh2am6wqzz4kfz0wuqan3gfa4sldj4dff3d9n3ta55a7355seh39g2",
+    "oldBalance": "8",
+    "newBalance": "1",
+    "diff": "7",
+    "gspRefund": "70000"
+  },
+  {
+    "address": "bc1qsmc7rxjzmdl9cqa5hkrht0t6qftajnh3jgeyxh",
+    "oldBalance": "14",
+    "newBalance": "1",
+    "diff": "13",
+    "gspRefund": "130000"
+  },
+  {
+    "address": "bc1qkuhu3dehs92p56s3qrsk37q56da4ent6w0yzgz",
+    "oldBalance": "9",
+    "newBalance": "2",
+    "diff": "7",
+    "gspRefund": "70000"
+  },
+  {
+    "address": "bc1pgj8ser9st835n4fdnj7w3f9kznamcn074telhsd4s2y7revh23zq6c476h",
+    "oldBalance": "72",
+    "newBalance": "45",
+    "diff": "27",
+    "gspRefund": "270000"
+  },
+  {
+    "address": "bc1q93dkfr024yu8485ldqyrmm2r9dm9u34jcls0wm",
+    "oldBalance": "30",
+    "newBalance": "3",
+    "diff": "27",
+    "gspRefund": "270000"
+  },
+  {
+    "address": "bc1pk6y72s45lcaurfwxrjyg7cf9xa9ezzuc8f5hhhzhtvhe5fgygckq0t0m5f",
+    "oldBalance": "35",
+    "newBalance": "2",
+    "diff": "33",
+    "gspRefund": "330000"
+  },
+  {
+    "address": "bc1psu6v5ysjyvw25x92elvddv7j0f0ay5ewk70ndu4gy8qgggll4tzqtgg0z2",
+    "oldBalance": "30",
+    "newBalance": "1",
+    "diff": "29",
+    "gspRefund": "290000"
+  },
+  {
+    "address": "bc1p3mjt5aljuy5u4eyaeuvf0k2z7fyjc05md282dn53r0ygz50gvf5sx4gha6",
+    "oldBalance": "30",
+    "newBalance": "1",
+    "diff": "29",
+    "gspRefund": "290000"
+  },
+  {
+    "address": "bc1p3x2v8drarg57xef3jupvp8lq5t87yaxx7l7794nkwvps2u3ldlvs7wfyg2",
+    "oldBalance": "8",
+    "newBalance": "1",
+    "diff": "7",
+    "gspRefund": "70000"
+  },
+  {
+    "address": "bc1q0zklhgw80qf7smzgmc55vfxv00gxhdkte6ger8",
+    "oldBalance": "8",
+    "newBalance": "4",
+    "diff": "4",
+    "gspRefund": "40000"
+  },
+  {
+    "address": "bc1pvlnamdv50p3ksl8hqnk5wrsa2u5dj972fakqetpzfvk3t0n83f6qux54wj",
+    "oldBalance": "3",
+    "newBalance": "1",
+    "diff": "2",
+    "gspRefund": "20000"
+  },
+  {
+    "address": "bc1qwhvgmqlgeq5k3rm43t9h93lleh3zmclsck0ha2",
+    "oldBalance": "20",
+    "newBalance": "1",
+    "diff": "19",
+    "gspRefund": "190000"
+  },
+  {
+    "address": "bc1p85rs63jz248sad0dc7sqk66m4y7m9ftrudkus098dfk74pjvqm0s4565lp",
+    "oldBalance": "5",
+    "newBalance": "1",
+    "diff": "4",
+    "gspRefund": "40000"
+  },
+  {
+    "address": "bc1p6y4229gkqs0tcpypj46hunyrkzch03eu4detqm4jf9vkv94rhlds3qp8k4",
+    "oldBalance": "84",
+    "newBalance": "1",
+    "diff": "83",
+    "gspRefund": "830000"
+  },
+  {
+    "address": "bc1pg2pjfs9kdga84mmt8ka5q4mqtx60uh4m2aa0kp396f2rksql5nfq3arul7",
+    "oldBalance": "10",
+    "newBalance": "2",
+    "diff": "8",
+    "gspRefund": "80000"
+  },
+  {
+    "address": "bc1pz8dad9s2stqcwx77xtlf48rwyfw3ryjy8343n2arekyk6js3tjpq20uy5e",
+    "oldBalance": "10",
+    "newBalance": "1",
+    "diff": "9",
+    "gspRefund": "90000"
+  },
+  {
+    "address": "bc1psh9d02s9l39zglvdvk2eh47q7kuutvl7jrua7lvkt5k4hw6t6j6scfnznj",
+    "oldBalance": "3",
+    "newBalance": "1",
+    "diff": "2",
+    "gspRefund": "20000"
+  },
+  {
+    "address": "bc1pj35jy09teqrfz8ajxshjy66y0rq4rxqk4xax00e3e0dh6g0cxyss87u4vk",
+    "oldBalance": "20",
+    "newBalance": "1",
+    "diff": "19",
+    "gspRefund": "190000"
+  },
+  {
+    "address": "373Jk4L8PfUWN1yiDNiaQLwPuP2vgR3iGy",
+    "oldBalance": "38",
+    "newBalance": "2",
+    "diff": "36",
+    "gspRefund": "360000"
+  },
+  {
+    "address": "3Cv9ToDm3YFeivLhEUjctU3ru2qNVBViKH",
+    "oldBalance": "8",
+    "newBalance": "1",
+    "diff": "7",
+    "gspRefund": "70000"
+  },
+  {
+    "address": "bc1pua5t3f5wmgsccvpmhr3p4ux986qtawgpj744w3kkejgpgxzqd5gqpsedre",
+    "oldBalance": "10",
+    "newBalance": "2",
+    "diff": "8",
+    "gspRefund": "80000"
+  },
+  {
+    "address": "bc1pzawkdduf7hh3lclys9nkq7vj0x4aljrxhg5nt73ghd2vr4tpzqhskh205n",
+    "oldBalance": "73",
+    "newBalance": "2",
+    "diff": "71",
+    "gspRefund": "710000"
+  },
+  {
+    "address": "bc1pjgz9u9s73a6fufg4j0ujgltzup2mf2guwrcg5lpnx768hl9lht7q9knkmx",
+    "oldBalance": "15",
+    "newBalance": "1",
+    "diff": "14",
+    "gspRefund": "140000"
+  },
+  {
+    "address": "bc1pmpnz9cz4q8x9z942m00f52ajs7udwc03glvqk9h6wypdvnesqx6sgfrlh2",
+    "oldBalance": "13",
+    "newBalance": "11",
+    "diff": "2",
+    "gspRefund": "20000"
+  },
+  {
+    "address": "bc1pzelq6ea006jn4ezgupng9vqmrq32h427cac6kxswvzets8hp8sksq7ljmj",
+    "oldBalance": "76",
+    "newBalance": "4",
+    "diff": "72",
+    "gspRefund": "720000"
+  },
+  {
+    "address": "bc1p34qh509d25zjmgwf9xtst2lrqcu3y6v9amca7la6d22zdw8td8dsr89kkg",
+    "oldBalance": "5",
+    "newBalance": "2",
+    "diff": "3",
+    "gspRefund": "30000"
+  },
+  {
+    "address": "bc1phcsawa5pzfjx65c0z633erv5j5j7rypy86uy3jqred8ex8hqza7sy7ldg9",
+    "oldBalance": "2",
+    "newBalance": "1",
+    "diff": "1",
+    "gspRefund": "10000"
+  },
+  {
+    "address": "bc1pgclul6p27z88ckgy9605r6esrg6c6pcsh29zqs5wz8dzu69vl0hsdlw9yz",
+    "oldBalance": "3",
+    "newBalance": "2",
+    "diff": "1",
+    "gspRefund": "10000"
+  },
+  {
+    "address": "bc1p7a0p4u8c4nfker05tr36e78p4a5hme8p0va5sq2u2nfga23q7npskdhyds",
+    "oldBalance": "10",
+    "newBalance": "1",
+    "diff": "9",
+    "gspRefund": "90000"
+  },
+  {
+    "address": "bc1p3xpff2aqtytwjfn0fdza4ayy5wldjzas4dnrdgxcvg3ekuez3r6qc0lc2a",
+    "oldBalance": "4",
+    "newBalance": "1",
+    "diff": "3",
+    "gspRefund": "30000"
+  },
+  {
+    "address": "bc1patr28kn6yfht5ve8xl27cmxjfdh0586vncy8cp542q5m8m4h3jnsll5mn6",
+    "oldBalance": "20",
+    "newBalance": "1",
+    "diff": "19",
+    "gspRefund": "190000"
+  },
+  {
+    "address": "bc1peuuuzs2eadrmjzhmtetwazx84gfmuglhwp0ewspr3zp6z7t7uhqsgjrn6y",
+    "oldBalance": "4",
+    "newBalance": "2",
+    "diff": "2",
+    "gspRefund": "20000"
+  },
+  {
+    "address": "bc1pyutxpwsue9q05pjlkelulj97etx4kkdhld0tzkumjqh4fzya8t2szjft4s",
+    "oldBalance": "18",
+    "newBalance": "9",
+    "diff": "9",
+    "gspRefund": "90000"
+  },
+  {
+    "address": "bc1pa2043xfxlkwcpsgpuznejxslr8l3svlq4nuh7yr6gnhd7vyruyrs8f2xya",
+    "oldBalance": "20",
+    "newBalance": "3",
+    "diff": "17",
+    "gspRefund": "170000"
+  },
+  {
+    "address": "bc1padhzgy5wnjcyk8wges0gdd78ndqdex2yfghqe8sdseeg9y9hvpvsx87e8w",
+    "oldBalance": "24",
+    "newBalance": "1",
+    "diff": "23",
+    "gspRefund": "230000"
+  },
+  {
+    "address": "bc1p657y9qhqz0487v733y4uq44e4jfm6s2x7ynrdffnr4fpl7qepl0qslvplp",
+    "oldBalance": "113",
+    "newBalance": "2",
+    "diff": "111",
+    "gspRefund": "1110000"
+  },
+  {
+    "address": "bc1p5s9vy3wzs9r5m72cqpmghj92hvtzenv2m5sas6nc2p7g7m7d286q74junp",
+    "oldBalance": "12",
+    "newBalance": "1",
+    "diff": "11",
+    "gspRefund": "110000"
+  },
+  {
+    "address": "bc1p4g84qqy0cxj548cmtmrelgs0knvghzpa5te5rhusn4jfkwv25erqveg8qp",
+    "oldBalance": "17",
+    "newBalance": "1",
+    "diff": "16",
+    "gspRefund": "160000"
+  },
+  {
+    "address": "bc1pka3vtfe9arq7c584jeu3ee60wqq75pmxm73tc0ndx0kv3lxhkapsuy4t54",
+    "oldBalance": "10",
+    "newBalance": "1",
+    "diff": "9",
+    "gspRefund": "90000"
+  },
+  {
+    "address": "bc1pt05vwadxslny0tkeku7zhy5xe3fnetnnxnsfl0jwjmehtnzdfflqa93q43",
+    "oldBalance": "21",
+    "newBalance": "1",
+    "diff": "20",
+    "gspRefund": "200000"
+  },
+  {
+    "address": "bc1pmj084crcymgtaql9fkwrusph953yq8cs7rc8gng76wxyuakt0f6s505u40",
+    "oldBalance": "12",
+    "newBalance": "11",
+    "diff": "1",
+    "gspRefund": "10000"
+  },
+  {
+    "address": "bc1pxgtckay84rgc2gu5sf38rf0urujymumyl54nzxgcnedxx4s7j0qs6umc6y",
+    "oldBalance": "228",
+    "newBalance": "3",
+    "diff": "225",
+    "gspRefund": "2250000"
+  },
+  {
+    "address": "bc1pk2uqzqard5h5k9wq45k3rez5hrjmk9zemprg24eznvwz3cjpxdgs5daeel",
+    "oldBalance": "12",
+    "newBalance": "10",
+    "diff": "2",
+    "gspRefund": "20000"
+  },
+  {
+    "address": "bc1pf2m43jd9hmgg4vra9xtwnlwhdsvllzy5chv0xkykmhwejz2q8suql20pxj",
+    "oldBalance": "21",
+    "newBalance": "1",
+    "diff": "20",
+    "gspRefund": "200000"
+  },
+  {
+    "address": "bc1pwjwad7wjxx8akm5zlq0fzlymayzm9ld9nf0wxa4t6cyzu7wpmehsl9nwv6",
+    "oldBalance": "21",
+    "newBalance": "1",
+    "diff": "20",
+    "gspRefund": "200000"
+  },
+  {
+    "address": "bc1pd82j9xnmgnn7d59dl8s636per8t9gv9f693dn9vhc8qecd5smg8svq7azs",
+    "oldBalance": "21",
+    "newBalance": "1",
+    "diff": "20",
+    "gspRefund": "200000"
+  },
+  {
+    "address": "bc1pyucdwx0h9t9k3qc0lmy29cg74jj2v7vntd30hpjethvfznrqtlpsw7dyuy",
+    "oldBalance": "3",
+    "newBalance": "2",
+    "diff": "1",
+    "gspRefund": "10000"
+  },
+  {
+    "address": "bc1p4yr03p8tw8htp6tz7a8y0nwjr54vcnhjzg8q76wn24kf0rmplt0snghde0",
+    "oldBalance": "2",
+    "newBalance": "1",
+    "diff": "1",
+    "gspRefund": "10000"
+  },
+  {
+    "address": "bc1pp2l5grlcdcn0yl36vvqd5u8whd5xh0j3twkltx9sc7k6tw5zlkrspra3s3",
+    "oldBalance": "50",
+    "newBalance": "9",
+    "diff": "41",
+    "gspRefund": "410000"
+  },
+  {
+    "address": "bc1p5mava8rp4w8lchwx64zrmgcsrvjnqcx84pc0fwp5jr36m4f9d3kqxnazhc",
+    "oldBalance": "5",
+    "newBalance": "1",
+    "diff": "4",
+    "gspRefund": "40000"
+  },
+  {
+    "address": "bc1pzz2ersey2tymrjtqxnv8nshgr6933wegcmm8408lnj9wamm0936qx9vw7e",
+    "oldBalance": "10",
+    "newBalance": "2",
+    "diff": "8",
+    "gspRefund": "80000"
+  },
+  {
+    "address": "bc1peufxf5mp9e9d82dc23x8gx03jcum3hxuzw5qkcu5swqxu3kue5qsz47p0l",
+    "oldBalance": "3",
+    "newBalance": "1",
+    "diff": "2",
+    "gspRefund": "20000"
+  },
+  {
+    "address": "bc1q0vkuf4numf5xh8x0mwwuhs3hqhfd836wgkkgsx",
+    "oldBalance": "7",
+    "newBalance": "2",
+    "diff": "5",
+    "gspRefund": "50000"
+  },
+  {
+    "address": "bc1ptv9cg7can6tmj7vpg5wnzx8fjymsyqs8v8zwxzfsmac3v4yy8d5qdee492",
+    "oldBalance": "12",
+    "newBalance": "2",
+    "diff": "10",
+    "gspRefund": "100000"
+  },
+  {
+    "address": "bc1p54c3v6qlgwklk6e2hky8y99xra6w9kvqfsqd637eskh486axf8yqt8p9hp",
+    "oldBalance": "6",
+    "newBalance": "1",
+    "diff": "5",
+    "gspRefund": "50000"
+  },
+  {
+    "address": "bc1q6jf5grtawu04f2w0aqfmmkythvfg6qkpqqv3gq",
+    "oldBalance": "5",
+    "newBalance": "1",
+    "diff": "4",
+    "gspRefund": "40000"
+  },
+  {
+    "address": "bc1petyu65n56mz2uyz5v24y3rc3e67du8a5petp7l575ukqz0jk03us8xdyz7",
+    "oldBalance": "22",
+    "newBalance": "1",
+    "diff": "21",
+    "gspRefund": "210000"
+  },
+  {
+    "address": "bc1pdg4047em30jaslrtr3n8nqdjlpdg028f4lsn3ymjmdq3eyerzjwsz0udup",
+    "oldBalance": "101",
+    "newBalance": "1",
+    "diff": "100",
+    "gspRefund": "1000000"
+  }
+]
