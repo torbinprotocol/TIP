@@ -1,0 +1,23 @@
+[
+  {
+    "address": "bc1pxcuj5z2hp7euc2epduygp8ev4j0ppjc7vc5jvvyl0amkckrda5fq43gcu0",
+    "oldBalance": "10",
+    "newBalance": "1",
+    "diff": "9",
+    "gspRefund": "90000"
+  },
+  {
+    "address": "bc1pazm33g2tmraytdt4tyl0zx4yf6ugcg2lckvkvhp2yzwczpuay60qeyar80",
+    "oldBalance": "10",
+    "newBalance": "1",
+    "diff": "9",
+    "gspRefund": "90000"
+  },
+  {
+    "address": "bc1pzfh9sqm029h7f2rtd6l6ejwp4uz9yzk0q539ynwnvflzfsaxfshsvqjk3h",
+    "oldBalance": "2",
+    "newBalance": "1",
+    "diff": "1",
+    "gspRefund": "10000"
+  }
+]
